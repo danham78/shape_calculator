@@ -88,3 +88,11 @@ Square(side=4)
 \****
 
 8
+
+# Installation
+- download the file
+- ensure you have python3 installed
+- run in the command line with the command python shape_calculator.py
+
+# License 
+shape_calculator is available under the MIT, GNU license. 
